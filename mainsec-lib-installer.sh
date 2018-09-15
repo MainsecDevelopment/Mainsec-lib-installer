@@ -9,6 +9,7 @@ apt-get install figlet
 apt-get install perl
 apt-get install java
 apt-get install git
+cd
 git clone https://github.com/MainsecDevelopment/w.i.git 
 git clone https://github.com/MainsecDevelopment/Mainsec-WCT.git 
 termux-setup-storage
